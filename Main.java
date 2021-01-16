@@ -7,7 +7,7 @@ public class Main {
         JTM jtm = new JTM();
         try {
             jtm.sendJTM("New Mail Library","The Body of the email"
-                    ,"youremail@gmail.com","yourpassword","20180075@stud.fci-cu.edu.eg");
+                    ,"youremail@gmail.com","yourpassword","receiveremail");
         } catch (MessagingException e) {
             e.printStackTrace();
         }
