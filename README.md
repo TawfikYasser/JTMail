@@ -10,6 +10,8 @@ Just add the JAR file to your project and call the class `JTM` and make an objec
 
 - Using -> IntelliJ IDEA IDE
 
+- To download to JAR File just `clone the repository` -> `git clone https://github.com/TawfikYasser/JTMail.git`
+
 ###### Step 1
 
 Go to `File` -> `Project Structure` -> `Libraries` -> and add the JAR file and click `OK`
