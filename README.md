@@ -34,6 +34,6 @@ Function `sendJTM` parameters (Subject-Body-yourGmail-yourGmailPassword-recipien
 
 ###### Finally
 
-I hope you enjoy with this simple library, I will improve it, This is the first version (1.0v) and I will develope more soon.
+I hope you enjoy with this simple library, I will improve it, This is the first version (v1.0) and I will develope more soon.
 
 Thanks.
