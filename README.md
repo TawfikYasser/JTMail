@@ -1,10 +1,10 @@
 # JTMail
 
-###### About the library
+###### About the library:
 
 This java library to send a simple java mail.
 
-###### How to use it
+###### How to use it:
 
 Just add the JAR file to your project and call the class `JTM` and make an object, Then use it’s public function `sendJTM`
 
@@ -32,7 +32,7 @@ Function `sendJTM` parameters (Subject-Body-yourGmail-yourGmailPassword-recipien
         }
 ```
 
-###### Finally
+###### Finally:
 
 I hope you enjoy with this simple library, I will improve it, This is the first version (v1.0) and I will develop more soon.
 
